@@ -17,6 +17,7 @@ https://matthias-research.github.io/pages/tenMinutePhysics/10-softBodies.pdf
 
 https://matthias-research.github.io/pages/tenMinutePhysics/09-xpbd.pdf
 
+https://matthias-research.github.io/pages/tenMinutePhysics/
 
 # 运行方式
 安装taichi，当前使用版本是1.7.2。运行
